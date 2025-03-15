@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="resources\sudokuMainTitle.txt" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1080" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="107" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\sudoku.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="323" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="36" />
+			<Collapse line="57" />
+			<Collapse line="88" />
+			<Collapse line="92" />
+			<Collapse line="97" />
+		</Folding>
+	</File>
+	<File name="resources\sudokuBoardEmpty.txt" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1128" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\game.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="765" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="src\game.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5741" topLine="149" />
+		</Cursor>
+		<Folding>
+			<Collapse line="14" />
+			<Collapse line="19" />
+			<Collapse line="23" />
+		</Folding>
+	</File>
+	<File name="resources\welcomeMessage.txt" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1834" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\sudoku.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="713" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="resources\rock-paper-scissors.txt" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="-8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="627" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

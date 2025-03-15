@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1741503930 source:g:\harshil_folder\programmigng_projects\college_c_projects\mini games\main.cpp
+	<game.h>
+	<sudoku.h>
+
+1741929403 g:\harshil_folder\programmigng_projects\college_c_projects\mini games\include\game.h
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<conio.h>
+	<windows.h>
+
+1741932242 source:g:\harshil_folder\programmigng_projects\college_c_projects\mini games\src\game.cpp
+	"game.h"
+
+1741926632 source:g:\harshil_folder\programmigng_projects\college_c_projects\mini games\src\sudoku.cpp
+	"sudoku.h"
+
+1741707610 g:\harshil_folder\programmigng_projects\college_c_projects\mini games\include\sudoku.h
+	<game.h>
+
+1741760359 source:g:\harshil_folder\programmigng_projects\college_c_projects\mini games\src\tictactoe.cpp
+	"ticTacToe.h"
+
+1741760359 g:\harshil_folder\programmigng_projects\college_c_projects\mini games\include\tictactoe.h
+	<game.h>
+
